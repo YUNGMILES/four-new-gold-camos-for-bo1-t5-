@@ -1,0 +1,1 @@
+type in to windows searchbar %localappdata% go to Appdata/Local/Plutonium/storage/t5 then make a new folder called images and drg and drop there
